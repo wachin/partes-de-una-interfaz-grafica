@@ -11,4 +11,8 @@ están las siguientes partes:
 
   - El separador horizontal debajo de la tabla permite ampliar o reducir verticalmente su espacio.
   - Los límites de las columnas pueden arrastrarse hacia la izquierda o derecha, como en Excel
+  
+
+• En este tipo de tabla puede ser necesario que crezca y que toda la página inferior sea empujada hacia abajo, aumentando la altura total desplazable, es necesario poner allí una barra de arrastre propia que cambie directamente la altura de la tabla y haga crecer la página completa.
+
 
